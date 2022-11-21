@@ -7,5 +7,5 @@
 
 4. Yes, because many platforms feature limit users to have message length "MAX MESSAGE LENGTH" for variaty of reason.
 
-![Screen Shot of ALL TEST RESULTS](Screenshot 2022-11-21 at 2.14.48 PM)
+![Screen Shot of ALL TEST RESULTS](screenshot.png)
 
